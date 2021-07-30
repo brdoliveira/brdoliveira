@@ -13,7 +13,7 @@
 
 <div>
   <tr>
-      <td width="400px"><img height="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=brdoliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"></td>
-      <td width="400px"><img height="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brdoliveira&layout=compact&langs_count=7&theme=dark"></td> 
+      <td width="50%"><img height="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=brdoliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"></td>
+      <td width="50%"><img height="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brdoliveira&layout=compact&langs_count=7&theme=dark"></td> 
     </tr>
 </div>
