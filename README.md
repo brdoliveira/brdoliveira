@@ -3,9 +3,9 @@
 ### Hi there! 👩‍💻
 
 
-🌱 **Learning:** Python , Data Science;
+🌱 **Learning:** Python , Data Science, Angular, Kotlin and Typescript;
 
-:school_satchel: **Main Tools:** Visual Studio Code and GitHub;
+:school_satchel: **Main Tools:** Visual Studio Code, RStudio, Tableau and GitHub;
 
 ⚡ **Fun fact:** I love Italian Movies 📽️;
 
