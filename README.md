@@ -3,7 +3,7 @@
 ### Hi there! 👩‍💻
 
 
-🌱 **Learning:** Python, R , Data Science, Angular, Kotlin and Typescript;
+🌱 **Learning:** Python, R, Data Science, Angular, React, Kotlin and Typescript;
 
 :school_satchel: **Main Tools:** Visual Studio Code, RStudio, Tableau and GitHub;
 
