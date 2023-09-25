@@ -3,7 +3,7 @@
 ### Hi there! 👩‍💻
 
 
-🌱 **Learning:** Python, R, Data Science, Angular, React, Kotlin and Typescript;
+🌱 **Learning:** Angular, React, Vue, Kotlin, Typescript;
 
 :school_satchel: **Main Tools:** Visual Studio Code, RStudio, Tableau and GitHub;
 
@@ -12,5 +12,6 @@
 ---
 
 <div>
-<img height="70%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brdoliveira&layout=compact&langs_count=7&theme=onedark">
+<img height="70%"
+ align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brdoliveira&layout=compact&langs_count=7&theme=onedark">
 </div>
