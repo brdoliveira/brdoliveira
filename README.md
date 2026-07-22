@@ -3,7 +3,7 @@
 ### Hi there! 👩‍💻
 
 
-🌱 **Learning:** Angular, React, Vue, Kotlin, Typescript;
+🌱 **Learning:** Golang;
 
 :school_satchel: **Main Tools:** Visual Studio Code, RStudio, Tableau and GitHub;
 
